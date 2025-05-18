@@ -12,7 +12,7 @@ export default function Home() {
         <Link to="/intro" className="btn btn-block">
           شروع
         </Link>
-        <p>v1</p>
+        <p>v2</p>
       </div>
     </div>
   )

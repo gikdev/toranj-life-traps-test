@@ -86,7 +86,7 @@ function Question({
     setAnswersHolder(an => {
       const clone = [...an]
       clone[questionId] = code
-      setTimeout(() => handleNext(), 200)
+      // setTimeout(() => handleNext(), 200)
       return clone
     })
   }
